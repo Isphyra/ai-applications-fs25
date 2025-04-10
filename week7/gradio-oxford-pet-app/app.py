@@ -26,6 +26,7 @@ example_images = [
     ["example_images/dog1.jpeg"],
     ["example_images/leonberger.jpeg"]
     ["example_images/dog2.jpeg"],
+    ["example_images/leonberger.jpg"],
     ["example_images/snow_leopard.jpeg"],
     ["example_images/cat.jpg"]
 ]
